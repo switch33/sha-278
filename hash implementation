@@ -1,5 +1,10 @@
 lorem ipsum
 //sha278 has 20 trillion billion digits as keys to stop add on "83t"
 
+keydb $10
+//0 add integer txt 25
+
+//this is a comment but the line above with two slashes is code to add integers you just type add keydb $#
+
 lorem ipsum 83t
 //this is an example stopping it
